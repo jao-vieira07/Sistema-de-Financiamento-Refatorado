@@ -2,8 +2,8 @@
 
 ## 🛠️ Tecnologias Utilizadas
 
-* **Linguagem:** Java 17+
-* **Banco de Dados:** PostgreSQL 16/18
+* **Linguagem:** Java 25
+* **Banco de Dados:** PostgreSQL 18
 * **Driver:** JDBC PostgreSQL Driver
 * **IDE:** IntelliJ IDEA
 
